@@ -1,10 +1,12 @@
 # Website-for-A-Film-Festival
 
-#### The 3rd project at OpenClassroom (OC)
+#### The 3rd project at [OpenClassroom](https://openclassrooms.com)
 
-[OpenClassroom](https://openclassrooms.com)
+`html` `css` `gulp`
 
 By [Thaison Dang](https://github.com/thaisonbk57)
+
+[LIVE preview](https://film-festival-website.firebaseapp.com/)
 
 ---
 
