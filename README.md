@@ -2,7 +2,7 @@
 
 #### The 3rd project at [OpenClassroom](https://openclassrooms.com)
 
-`html` `css` `gulp`
+`html` `css` `gulp` `firebase`
 
 By [Thaison Dang](https://github.com/thaisonbk57)
 
