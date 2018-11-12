@@ -1,0 +1,22 @@
+{
+  "name": "film-festival-website",
+  "version": "1.0.0",
+  "description": "In this project I have built a website to publicize about the upcoming film festival that allows people to pre-register and get information about the event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaisonbk57/Project-3-Website-for-A-Film-Festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaisonbk57/Project-3-Website-for-A-Film-Festival/issues"
+  },
+  "homepage": "https://github.com/thaisonbk57/Project-3-Website-for-A-Film-Festival#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
