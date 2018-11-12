@@ -8,8 +8,6 @@ By [Thaison Dang](https://github.com/thaisonbk57)
 
 [LIVE preview](https://film-festival-website.firebaseapp.com/)
 
----
-
 # Features
 
 A website that publicizes information about an upcomming Film Festival.
